@@ -1,5 +1,3 @@
 Hello, Git
 second line 
 third
-4th
-fifth line in file
